@@ -1,2 +1,2 @@
 # leetcode
-leetcode题目golang实现
+leetcode算法题的golang实现
